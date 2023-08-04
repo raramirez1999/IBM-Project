@@ -1,5 +1,5 @@
 ### IBM Project from "Python Project for Data Science" course on Coursera
-
+![Certificate](Coursera_Python_Project_for_Data_Science.pdf)
 # Extracting and Visualizing Stock Data
 
 ## Description
