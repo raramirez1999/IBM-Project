@@ -31,10 +31,12 @@ Like Tesla revenue data, GameStop revenue data is extracted using the `requests`
 
 ## Part 5: Plot Tesla Stock Graph
 The `make_graph` function is used to create a graph for Tesla stock data, with a specified title. The function call format is: `make_graph(tesla_data, tesla_revenue, 'Tesla')`. Please note that the graph displays data only up to June 2021.
-
+![Tesla](Tesla_Stocks.jpg)
 ## Part 6: Plot GameStop Stock Graph
 Similar to Tesla, the `make_graph` function is employed to generate a graph for GameStop stock data. The function call format is: `make_graph(gme_data, gme_revenue, 'GameStop')`. The graph visualizes data up to June 2021.
+![Gamestop](Gamestop_Stocks.jpg)
 
 ---
 
 *Note: This project is a part of an assignment and may contain simplified or specific instructions for educational purposes.*
+
